@@ -103,3 +103,15 @@ h1{
   outline: none;
  
 }
+h2{
+  position: absolute;
+  top: 50px;
+  letter-spacing: 2px;
+  font-weight: 800px;
+  font-size: 50px;
+  color:honeydew;
+  /* border: 2px solid green; */
+  padding: 0 12px;
+  border-radius: 50px;
+  outline: none;
+}

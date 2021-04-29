@@ -11,6 +11,7 @@ const App=()=>{
     setInterval(updateTime,1000);
 return(
     <>
+        <h2> Digital Clock</h2>
         <h1>{ctime}</h1>
         {/* <button onClick={updateTime}>Click Me</button> */}
         </>
